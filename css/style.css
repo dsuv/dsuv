@@ -223,7 +223,7 @@ nav.clicked li:nth-child(4) {
 }
 .home-subheader{
   margin: 0;
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald", Arial;
   font-size: 30px;
   font-weight: 100;
   display: block;
@@ -236,7 +236,7 @@ nav.clicked li:nth-child(4) {
   margin: 0;
   border: 2px solid #fefefe;
   color: #fefefe;
-  font-family: "Oswald", sans-serif;
+  font-family: "Oswald", Arial;
   font-size: 18px;
   font-weight: 400;
   letter-spacing: 2px;
